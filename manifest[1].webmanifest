@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Teacheasy",
+  "short_name": "Teacheasy",
+  "description": "Lesson plans, tests, exams, worksheets and presentations for Algerian middle school teachers, in Arabic, French and English.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f5f9",
+  "theme_color": "#2747c9",
+  "lang": "ar",
+  "dir": "auto",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
